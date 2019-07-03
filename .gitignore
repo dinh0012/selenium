@@ -1,0 +1,14 @@
+# phpstorm project files
+.idea
+
+#vscode project files
+.vscode
+
+# windows thumbnail cache
+Thumbs.db
+
+*.log
+# dir
+/node_modules
+/dist
+/tsc
