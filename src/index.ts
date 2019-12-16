@@ -32,7 +32,7 @@ export function findBy(selector: string) {
 
     await browser.wait(elementIsVisible(() => inputPass))
 
-    await inputPass.setText("anhdinh10a")
+    await inputPass.setText("*****")
 
     await inputNextPass.click()
 
